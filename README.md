@@ -1,1 +1,3 @@
 # listaFilmes
+
+Criando uma lista de filmes e séries...
