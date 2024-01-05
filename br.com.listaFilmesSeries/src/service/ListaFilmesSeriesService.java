@@ -11,6 +11,7 @@ public class ListaFilmesSeriesService {
         ListaFilmesLeonardo listaFilmesLeonardo = new ListaFilmesLeonardo();
         listaFilmesLeonardo.adicionarFilmeLeo("John Wick");
         listaFilmesLeonardo.adicionarFilmeLeo("O Protetor");
+        listaFilmesLeonardo.adicionarFilmeLeo("Desejo de Matar ");
         listaFilmesLeonardo.mostrarFilmesLeo();
 
         //Uma quebra de linha.
